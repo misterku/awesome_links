@@ -7,3 +7,5 @@
 [Kotlin: An Illustrated Guide](https://typealias.com/start/)
 
 [Kotlin Core course](https://hyperskill.org/tracks/18)
+
+[Udacity: Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
